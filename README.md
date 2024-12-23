@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avanishav&label=Profile%20views&color=0e75b6&style=flat" alt="avanishav" /> </p>
 <div align="center">
-<img alt="coding" width = "500" height = "300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<img align="center" alt="coding" width = "80%" height = "250" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </div>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avanishav" alt="avanishav" /></a> </p>
+<div align="center">
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avanishav" alt="avanishav" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+</div>
 - 🔭 I’m currently working on **Employee Management System**
 
 - 👨‍💻 All of my projects are available at [https://avanish-portfolio-nu.vercel.app/](https://avanish-portfolio-nu.vercel.app/)
